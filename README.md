@@ -1,0 +1,1 @@
+# client-will-subscribe-to-the-term-deposit-or-not.
